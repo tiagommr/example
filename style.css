@@ -1,15 +1,8 @@
 body {
-    background-color: cadetblue;
+    background-color: green;
 }
 
 h1 {
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-p {
-    text-align: center;
-    font-style: italic;
-    color: blue;
+    text-align: left;
 }
 
